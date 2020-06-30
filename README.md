@@ -20,3 +20,5 @@ Modules used:
   1-Mustache Template System.
   2-Moment library for parsing dates.
   3-qs library for parsing query strings.
+
+You can check the app at:   https://hassanin-chat-app.herokuapp.com/
