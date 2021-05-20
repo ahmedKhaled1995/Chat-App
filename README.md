@@ -14,7 +14,7 @@ Modules used:
 1) Backend:
   1-express npm
   2-socket.io npm
-  3-bad-wordsnpm
+  3-bad-wordsnpm  --> for not allowing profanity
   
 2) Frontend:
   1-Mustache Template System.
